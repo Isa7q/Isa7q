@@ -18,7 +18,7 @@
   💼 Ferramentas: **VScode**
 </p>
 
-[![Isa7q](https://github-readme-stats.vercel.app/api/top-langs/?username=Isa7q&layout=compact)](https://github.com/Isa7q)
+[![Isa7q](https://github-readme-stats.vercel.app/api/top-langs/?username=Isa7q)](https://github.com/Isa7q)
 
 <p align="left">
   💌 Para entrar em contato, segue abaixo algumas das minhas redes sociais: ⤵️
